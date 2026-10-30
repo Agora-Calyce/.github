@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Agora-Calyce/.github/main/profile/AgoraCalyce_logo_hd.svg" alt="Agora Calycé" width="320">
+<img src="https://raw.githubusercontent.com/Agora-Calyce/.github/main/profile/AgoraCalyce_logo_hd.png" alt="Agora Calycé" width="320">
 
 ### Un cloud ouvert pour décider librement
 
